@@ -23,7 +23,7 @@ public class ParkingMain {
             else{
                count=0;
             }
-            if(count == 5){
+            if(count == 6){
                 break;
             }
    }System.out.println("Bus can park here");
